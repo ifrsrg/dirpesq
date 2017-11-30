@@ -1,0 +1,35 @@
+#imagemdecapa-sugeridas {
+	border-top: 0;
+	margin-top: -21px;
+}
+
+#imagemdecapa-sugeridas h2,
+#imagemdecapa-sugeridas .handlediv {
+	display: none;
+}
+
+#imagemdecapa-sugestoes {
+	max-height: 282px;
+	overflow: auto;
+}
+
+.imagemdecapa-sugestao {
+	border: 5px solid transparent;
+	height: 70px !important;
+	margin: 5px;
+	width: auto;
+}
+
+.imagemdecapa-sugestao:hover,
+.imagemdecapa-sugestao-selecionada {
+	border: 5px solid #0073aa;
+}
+
+#postimagediv .inside img,
+#imagemdecapa-sugestao-preview {
+	height: 110px;
+}
+
+#imagemdecapa-sugestao-preview {
+	margin: 15px;
+}

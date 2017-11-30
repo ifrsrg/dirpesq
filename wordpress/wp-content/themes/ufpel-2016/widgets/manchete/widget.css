@@ -1,0 +1,15 @@
+.manchete-conteudo {
+	width: 100%;
+	background: #E5E5E5 !important;
+	font-size: 20px;
+	text-align: center;
+	padding: 40px 5px !important;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	font-weight: bold;
+}
+
+.manchete-conteudo a:hover {
+	color: #666;
+}

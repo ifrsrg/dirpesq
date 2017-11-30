@@ -1,0 +1,1355 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: form_maker\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-06 13:57+0400\n"
+"PO-Revision-Date: 2017-10-06 13:59+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: C:/wamp/www/wordpress/wp-content/plugins/form-maker\n"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:97
+msgid "Form Maker"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:228
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:55
+msgid "Forms"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:229
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:938
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/controllers/Submissions_fm.php:141
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/controllers/Submissions_fm.php:157
+#, fuzzy
+msgid "Submissions"
+msgstr "Visualizza presentazione"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:232
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Blocked_ips_fm.php:55
+msgid "Blocked IPs"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:233
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:946
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/controllers/Themes_fm.php:83
+msgid "Themes"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:234
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Options_fm.php:23
+msgid "Options"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:236
+msgid "Pro Version"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:238
+msgid "Uninstall"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:239
+msgid "Add-ons"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:248
+msgid "Number of items per page:"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:350
+#, fuzzy
+msgid "Nothing found."
+msgstr "Nulla è stato presentato."
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:351
+msgid "The captcha already has been created."
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:352
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:426
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:740
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:1912
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:2038
+msgid "Update"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:353
+#, fuzzy
+msgid "Add"
+msgstr "Indirizzo"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:354
+msgid "Add Field"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:355
+msgid "Edit Field"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:356
+msgid "This field type is disabled in free version."
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:357
+msgid "Please upgrade to Paid version."
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:358
+msgid "Please install "
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:359
+msgid " add-on to use this feature."
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:360
+msgid ""
+"To use this feature, please go to Form Options > Payment Options and select "
+"\"Stripe\" as the Payment Method."
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:361
+msgid "Sunday"
+msgstr "Domenica"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:362
+msgid "Monday"
+msgstr "Lunedм"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:363
+msgid "Tuesday"
+msgstr "Martedм"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:364
+msgid "Wednesday"
+msgstr "Mercoledм"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:365
+msgid "Thursday"
+msgstr "Giovedм"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:366
+msgid "Friday"
+msgstr "Venerdм"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:367
+msgid "Saturday"
+msgstr "Sabato"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:388
+msgid "Do you want to delete selected items?"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:389
+msgid "You must select at least one item."
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:425
+msgid "You must select a form"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:510
+msgid "Sorry, you are not allowed to access this page."
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:647
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/models/form_maker.php:1564
+msgid "Can not upload this type of file"
+msgstr "Impossibile caricare questo tipo di file"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:648
+msgid "Field is required"
+msgstr "Il campo è obbligatiorio"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:649
+msgid "The "
+msgstr "Il"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:650
+msgid " value must be between "
+msgstr " valore deve essere compreso tra"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:651
+msgid "Value must be between "
+msgstr "Il valore deve essere compreso tra"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:652
+msgid "Are you sure you want to clear saved data?"
+msgstr "Sei sicuro di voler cancellare i dati salvati?"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:653
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/framework/WDW_FM_Library.php:3532
+msgid "Your score should be less than"
+msgstr "Il tuo punteggio deve essere inferiore a "
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:698
+msgid ""
+"Oops! Seems like you installed the update over a quite old version of Form "
+"Maker. Unfortunately, this version is deprecated.<br />Please contact Web-"
+"Dorado support team at support@web-dorado.com. We will take care of this "
+"issue as soon as possible."
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:876
+#, php-format
+msgid "This section allows you to %s."
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:884
+msgid "Upgrade to paid version"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:926
+msgid ""
+"Form Maker plugin is a modern and advanced tool for easy and fast creating "
+"of a WordPress Form. The backend interface is intuitive and user friendly "
+"which allows users far from scripting and programming to create WordPress "
+"Forms."
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:930
+msgid "Easy to Use"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:931
+msgid ""
+"This responsive form maker plugin is one of the most easy-to-use form "
+"builder solutions available on the market. Simple, yet powerful plugin "
+"allows you to quickly and easily build any complex forms."
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:934
+msgid "Customizable Fields"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:935
+msgid ""
+"All the fields of Form Maker plugin are highly customizable, which allows "
+"you to change almost every detail in the form and make it look exactly like "
+"you want it to be."
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:939
+msgid ""
+"You can view the submissions for each form you have. The plugin allows to "
+"view submissions statistics, filter submission data and export in csv or xml "
+"formats."
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:942
+msgid "Multi-Page Forms"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:943
+msgid ""
+"With the form builder plugin you can create muilti-page forms. Simply use "
+"the page break field to separate the pages in your forms."
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:947
+msgid ""
+"The WordPress Form Maker plugin comes with a wide range of customizable "
+"themes. You can choose from a list of existing themes or simply create the "
+"one that better fits your brand and website."
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:953
+msgid "Installing"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:958
+msgid "Creating a new Form"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:963
+msgid "Configuring Form Options"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:968
+msgid "Description of The Form Fields"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:972
+msgid "Selecting Options from Database"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:978
+msgid "Publishing the Created Form"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:983
+msgid "Blocking IPs"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:988
+msgid "Managing Submissions"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:993
+msgid "Publishing Submissions"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:1092
+#, php-format
+msgid "Please update the %s add-on to start using."
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:1093
+#, php-format
+msgid "Please update the %s add-ons to start using."
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:1148
+#, php-format
+msgid ""
+"%s advises: Install brand new FREE %s plugin to keep your forms and website "
+"safe."
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:1148
+msgid "More details"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/form-maker.php:1148
+msgid "Backup WD"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/controllers/Blocked_ips_fm.php:25
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/controllers/Manage_fm.php:40
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/controllers/Submissions_fm.php:61
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/controllers/Themes_fm.php:46
+msgid "Delete"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/controllers/Blocked_ips_fm.php:26
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/controllers/Manage_fm.php:41
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/controllers/Themes_fm.php:47
+#, fuzzy
+msgid "deleted"
+msgstr "Completato"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/controllers/Manage_fm.php:28
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:142
+msgid "Publish"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/controllers/Manage_fm.php:29
+msgid "published"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/controllers/Manage_fm.php:32
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:142
+msgid "Unpublish"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/controllers/Manage_fm.php:33
+msgid "unpublished"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/controllers/Manage_fm.php:36
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/controllers/Themes_fm.php:42
+msgid "Duplicate"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/controllers/Manage_fm.php:37
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/controllers/Themes_fm.php:43
+msgid "duplicated"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/controllers/Manage_fm.php:336
+msgid "Create new form"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/controllers/Manage_fm.php:470
+msgid "options"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/controllers/Manage_fm.php:795
+msgid "layout"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/controllers/Manage_fm.php:839
+msgid "display options"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/controllers/Submissions_fm.php:53
+msgid "Block IPs"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/controllers/Submissions_fm.php:54
+msgid "Blocked"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/controllers/Submissions_fm.php:57
+msgid "Unblock IPs"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/controllers/Submissions_fm.php:58
+msgid "Unblocked"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/controllers/Submissions_fm.php:62
+#, fuzzy
+msgid "Deleted"
+msgstr "Completato"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/models/Submissions_fm.php:351
+msgid "Street Address"
+msgstr "Indirizzo:"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/models/Submissions_fm.php:354
+msgid "Street Address Line 2"
+msgstr "Via Riga indirizzo 2"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/models/Submissions_fm.php:357
+msgid "City"
+msgstr "Città"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/models/Submissions_fm.php:360
+msgid "State / Province / Region"
+msgstr "Stato / Provincia / Regione"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/models/Submissions_fm.php:363
+msgid "Postal / Zip Code"
+msgstr "CAP"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/models/Submissions_fm.php:366
+msgid "Country"
+msgstr "Paese"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Blocked_ips_fm.php:76
+msgid "IP"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Blocked_ips_fm.php:116
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:146
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Submissions_fm.php:482
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Themes_fm.php:96
+msgid "Do you want to delete selected item?"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/FMSelectDataFromDb.php:164
+msgid "Connection type"
+msgstr "Tipo di connessione"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/FMShortocde.php:42
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/FMShortocde.php:88
+msgid "Unpublished"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/FMShortocde.php:72
+msgid "Front end submissions are disabled in free version."
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/FormMakerSubmits.php:43
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:515
+msgid "Date"
+msgstr "Data"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:78
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Themes_fm.php:70
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Themes_fm.php:145
+msgid "Title"
+msgstr "Titolo"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:79
+msgid "Type"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:81
+msgid "Shortcode"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:511
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:593
+msgid "BASIC FIELDS"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:512
+msgid "Single Line Text"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:513
+msgid "Paragraph Text"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:514
+#, fuzzy
+msgid "Number"
+msgstr "novembre"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:516
+#, fuzzy
+msgid "Select"
+msgstr "Seleziona una data"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:517
+#, fuzzy
+msgid "Single Choice"
+msgstr "scelte"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:518
+msgid "Multiple Choice"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:519
+msgid "Recaptcha"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:520
+msgid "Submit"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:521
+msgid "Simple Captcha"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:523
+msgid "USER INFO FIELDS"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:524
+msgid "Name"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:525
+msgid "Email"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:526
+msgid "Phone"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:527
+msgid "Address"
+msgstr "Indirizzo"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:528
+#, fuzzy
+msgid "Mark on Map"
+msgstr "Mostra sulla mappa"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:529
+#, fuzzy
+msgid "Country List"
+msgstr "Paese"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:530
+msgid "Date of Birth"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:532
+msgid "LAYOUT FIELDS"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:533
+msgid "HTML"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:534
+msgid "Section Break"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:535
+msgid "Page Break"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:537
+msgid "ADVANCED"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:538
+msgid "File Upload"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:539
+#, fuzzy
+msgid "Map"
+msgstr "Maggio"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:540
+msgid "Time"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:541
+msgid "Receive Copy"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:542
+msgid "Date Range"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:543
+msgid "Stars"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:544
+msgid "Rating"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:545
+msgid "Slider"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:546
+msgid "Range"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:547
+msgid "Grades"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:548
+#, fuzzy
+msgid "Table of Fields"
+msgstr "Selezionare un campo "
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:549
+msgid "Hidden Input"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:550
+msgid "Custom Button"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:551
+msgid "Password"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:552
+#, fuzzy
+msgid "Phone-Area Code"
+msgstr "Prefisso teleselettivo"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:553
+msgid "Arithmetic Captcha"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:555
+msgid "PAYMENT"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:556
+msgid "Price"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:557
+msgid "Payment Select"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:558
+msgid "Payment Single Choice"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:559
+msgid "Payment Multiple Choice"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:560
+msgid "Shipping"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:561
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_submissions.php:634
+msgid "Total"
+msgstr "Totale"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:562
+msgid "Stripe"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:595
+msgid "Toggle panel:"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:746
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:1918
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:2044
+msgid "Back to Form"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:1516
+msgid "Form Maker Stripe Integration"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Manage_fm.php:1517
+#, php-format
+msgid "Please install %s add-on to use this feature."
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Options_fm.php:29
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Themes_fm.php:143
+msgid "Save"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Submissions_fm.php:186
+#, fuzzy
+msgid "Show Filters"
+msgstr "Visualizza Matrix"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Submissions_fm.php:186
+msgid "Hide Filters"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Themes_fm.php:71
+msgid "Default"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Themes_fm.php:151
+#, fuzzy
+msgid "Title: "
+msgstr "Titolo"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/admin/views/Themes_fm.php:946
+msgid ""
+"This theme is outdated. Theme Options are only available in new themes "
+"provided by Form Maker. You can use Custom CSS panel to edit form styling, "
+"or alternatively select a new theme for your form."
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/framework/WDW_FM_Library.php:2299
+msgid ""
+"You cannot select former dates. Choose a date starting from the current one."
+msgstr ""
+"Non è possibile selezionare le date precedenti. Scegliere una data a partire "
+"da quello in corso."
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/framework/WDW_FM_Library.php:2877
+msgid "field is required."
+msgstr "campo è obbligatorio."
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/framework/WDW_FM_Library.php:2907
+msgid "The"
+msgstr "L'"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/framework/WDW_FM_Library.php:2907
+msgid "value must be between"
+msgstr "valore deve essere compreso tra "
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/framework/WDW_FM_Library.php:3033
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/framework/WDW_FM_Library.php:3115
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/framework/WDW_FM_Library.php:3197
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_maker.php:3695
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_maker.php:3875
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_maker.php:4061
+msgid "Quantity"
+msgstr "Quantità"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/framework/WDW_FM_Library.php:3944
+#, php-format
+msgid "No %s found."
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/models/form_maker.php:18
+msgid "Something went wrong when trying to display this form."
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/models/form_maker.php:23
+msgid "The form you are trying to view does not have Embedded display type."
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/models/form_maker.php:30
+msgid "The form you are trying to view has been unpublished."
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/models/form_maker.php:1168
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/models/form_maker.php:1179
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/models/form_maker.php:1208
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/models/form_maker.php:1214
+msgid "Error, incorrect Security code."
+msgstr "Errore, codice di protezione errato."
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/models/form_maker.php:1231
+msgid "Your ip is blacklisted. Please contact the website administrator."
+msgstr ""
+"Il tuo ip è nella lista nera. Si prega di contattare l'amministratore del "
+"sito. "
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/models/form_maker.php:1453
+msgid "This is not a valid date format."
+msgstr "Questo non è un formato di data."
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/models/form_maker.php:1549
+msgid "The file exceeds the allowed size of"
+msgstr "Il file supera la dimensione consentita di"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/models/form_maker.php:1677
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/models/form_maker.php:2437
+msgid "Error, file cannot be moved."
+msgstr "Errore, il file non possono essere spostati."
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/models/form_maker.php:2038
+#, fuzzy, php-format
+msgid "This field %s requires a unique entry."
+msgstr ""
+"Questo campo %s richiede una voce unica e questo valore è stato già "
+"presentato."
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/models/form_maker.php:2298
+msgid "Nothing was submitted."
+msgstr "Nulla è stato presentato."
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/models/form_maker.php:3293
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/models/form_maker.php:3305
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_maker.php:178
+msgid "Your form was successfully submitted."
+msgstr "Il modulo è stato inviato correttamente."
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/models/form_maker.php:3300
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_maker.php:175
+msgid "Error, email was not sent."
+msgstr "Errore, e-mail non è stato inviato."
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/models/form_submissions.php:369
+#, fuzzy
+msgid "You have no permissions to download"
+msgstr "Non hai il permesso di visualizzare presentazioni."
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/models/verify_email.php:27
+msgid "Your email address is already verified."
+msgstr "Il tuo indirizzo e-mail è già verificato."
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/models/verify_email.php:41
+msgid "Your email verification has timed out."
+msgstr "La verifica e-mail è scaduto."
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/models/verify_email.php:56
+msgid "Your email has been successfully verified."
+msgstr "Il tuo indirizzo email è stato verificato con successo."
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/models/verify_email.php:61
+msgid "Verification link is invalid."
+msgstr "Link di verifica non è valido."
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_maker.php:553
+msgid "Password values don't match"
+msgstr "i valori delle password non corrispondono"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_maker.php:1353
+msgid "The email addresses don't match"
+msgstr "Gli indirizzi email non corrispondono"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_maker.php:1354
+msgid "This is not a valid email address."
+msgstr "Questo non è un indirizzo email valido."
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_maker.php:2296
+msgid "January"
+msgstr "Gennaio"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_maker.php:2296
+msgid "February"
+msgstr "Febbraio"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_maker.php:2296
+msgid "March"
+msgstr "Marzo"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_maker.php:2296
+msgid "April"
+msgstr "Aprile"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_maker.php:2296
+msgid "May"
+msgstr "Maggio"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_maker.php:2296
+msgid "June"
+msgstr "Giugno"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_maker.php:2296
+msgid "July"
+msgstr "Luglio"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_maker.php:2296
+msgid "August"
+msgstr "Agosto"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_maker.php:2296
+msgid "September"
+msgstr "Settembre"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_maker.php:2296
+msgid "October"
+msgstr "Ottobre"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_maker.php:2296
+msgid "November"
+msgstr "Novembre"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_maker.php:2296
+msgid "December"
+msgstr "Dicembre"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_submissions.php:14
+msgid "You have no permission to view submissions."
+msgstr "Non hai il permesso di visualizzare presentazioni."
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_submissions.php:236
+#, fuzzy, php-format
+msgid ""
+"%s of %s submissions are not shown, as the field you sorted by is missing in "
+"those submissions."
+msgstr ""
+"osservazioni non sono mostrati, come il campo è ordinato da manca in quelle "
+"osservazioni."
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_submissions.php:398
+msgid "From"
+msgstr "Da"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_submissions.php:405
+msgid "To"
+msgstr "Per"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_submissions.php:462
+msgid "Canceled"
+msgstr "Annullato"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_submissions.php:463
+msgid "Cleared"
+msgstr "Azzerato"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_submissions.php:464
+msgid "Cleared by payment review"
+msgstr "Autorizzata dalla recensione di pagamento"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_submissions.php:465
+msgid "Completed"
+msgstr "Completato"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_submissions.php:466
+msgid "Denied"
+msgstr "negato"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_submissions.php:467
+msgid "Failed"
+msgstr "fallito"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_submissions.php:468
+msgid "Held"
+msgstr "Held"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_submissions.php:469
+msgid "In progress"
+msgstr "in corso"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_submissions.php:470
+msgid "On hold"
+msgstr "In attesa"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_submissions.php:471
+msgid "Paid"
+msgstr "Pagato"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_submissions.php:472
+msgid "Partially refunded"
+msgstr "parzialmente rimborsato"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_submissions.php:473
+msgid "Pending verification"
+msgstr "In attesa di verifica"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_submissions.php:474
+msgid "Placed"
+msgstr "collocato"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_submissions.php:475
+msgid "Processing"
+msgstr "lavorazione"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_submissions.php:476
+msgid "Refunded"
+msgstr "rimborsato"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_submissions.php:477
+msgid "Refused"
+msgstr "rifiutato"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_submissions.php:478
+msgid "Removed"
+msgstr "Rimosso"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_submissions.php:479
+msgid "Returned"
+msgstr "tornati"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_submissions.php:480
+msgid "Reversed"
+msgstr "invertito"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_submissions.php:481
+msgid "Temporary hold"
+msgstr "blocco temporaneo"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_submissions.php:482
+msgid "Unclaimed"
+msgstr "Non reclamato"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_submissions.php:595
+msgid "Show on Map"
+msgstr "Mostra sulla mappa"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_submissions.php:646
+msgid "Show Matrix"
+msgstr "Visualizza Matrix"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/frontend/views/form_submissions.php:774
+msgid "Please select the field!"
+msgstr "Si prega di selezionare il campo!"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/wd.php:72
+msgid "Overview"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/deactivate.php:35
+msgid "Technical problems / hard to use"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/deactivate.php:39
+msgid "Free version is limited"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/deactivate.php:43
+msgid "Premium is expensive"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/deactivate.php:47
+msgid "Upgrading to paid version"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/deactivate.php:51
+#, fuzzy
+msgid "Temporary deactivation"
+msgstr "blocco temporaneo"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/notices.php:211
+msgid "Leave A Review?"
+msgstr "Lascia una recensione?"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/notices.php:212
+#, php-format
+msgid ""
+"We hope you've enjoyed using WordPress %s! Would you consider leaving us a "
+"review on WordPress.org?"
+msgstr ""
+"Speriamo che abbiate gradito utilizzando WordPress% s! Vuoi prendere in "
+"considerazione lasciandoci una recensione su WordPress.org?"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/notices.php:213
+msgid "Sure! I'd love to!"
+msgstr "Sicuro! Mi piacerebbe!"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/notices.php:214
+msgid "I've already left a review"
+msgstr "Ho già lasciato una recensione"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/notices.php:215
+msgid "Maybe Later"
+msgstr "Forse più tardi"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/notices.php:216
+msgid "Never show again"
+msgstr "Non mostrare più"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/overview.php:27
+msgid "Welcome"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/overview.php:31
+#, fuzzy
+msgid "User Guide"
+msgstr "Partenza Guida per l'utente"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/overview.php:35
+msgid "Deals"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/overview.php:39
+msgid "Support"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/overview.php:43
+msgid "Submit Your  Idea"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/overview.php:47
+msgid "Forum"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/overview.php:79
+msgid "Wordpress form builder plugin"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/overview.php:80
+msgid ""
+"Form Maker is a modern and advanced tool for creating WordPress forms easily "
+"and fast."
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/overview.php:85
+msgid "WordPress Photo Gallery plugin"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/overview.php:86
+msgid ""
+"Photo Gallery is a fully responsive WordPress Gallery plugin with advanced "
+"functionality."
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/overview.php:91
+msgid "WordPress calendar plugin"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/overview.php:92
+msgid ""
+"Organize and publish your events in an easy and elegant way using Event "
+"Calendar WD."
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/overview.php:97
+msgid "WD Google Maps plugin"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/overview.php:98
+msgid ""
+"Google Maps WD is an intuitive tool for creating Google maps with advanced "
+"markers, custom layers and overlays for   your website."
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/overview.php:103
+msgid "WordPress slider plugin"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/overview.php:104
+msgid ""
+"Create responsive, highly configurable sliders with various effects for your "
+"WordPress site."
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/overview.php:109
+msgid "WordPress event calendar plugin"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/overview.php:110
+msgid ""
+"Spider Event Calendar is a highly configurable product which allows you to "
+"have multiple organized events."
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/overview.php:115
+msgid "WordPress Instagram Feed plugin"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/overview.php:116
+msgid ""
+"WD Instagram Feed is a user-friendly tool for displaying user or hashtag-"
+"based feeds on your website."
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/overview.php:169
+msgid "Not set"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/overview.php:174
+msgid "On"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/overview.php:176
+msgid "Off"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/overview.php:185
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/overview.php:193
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/overview.php:200
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/overview.php:207
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/overview.php:215
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/overview.php:222
+msgid "N/A"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/overview.php:220
+msgid " MByte"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/overview.php:227
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/overview.php:234
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/overview.php:241
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/overview.php:251
+msgid "Yes"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/overview.php:229
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/overview.php:236
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/overview.php:243
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/overview.php:246
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/overview.php:251
+msgid "No"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/subscribe.php:43
+msgid "Your name &"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/subscribe.php:44
+#, fuzzy
+msgid "Email address"
+msgstr "Indirizzo"
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/subscribe.php:48
+msgid "Site URL"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/subscribe.php:49
+msgid "Wordpress version"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/includes/subscribe.php:53
+msgid "List of plugins"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/templates/display_overview.php:6
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/templates/display_overview.php:8
+#, php-format
+msgid "CONGRATS! You've successfully installed %s WordPress plugin."
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/templates/display_overview_deals.php:12
+#, php-format
+msgid "Get %s"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/templates/display_overview_deals.php:13
+msgid "plugins"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/templates/display_overview_deals.php:14
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/templates/display_overview_deals.php:58
+msgid "for"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/templates/display_overview_deals.php:14
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/templates/display_overview_deals.php:58
+msgid "only"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/templates/display_overview_deals.php:16
+msgid "Save 80%"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/templates/display_overview_deals.php:57
+msgid "Get all 11 themes"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/templates/display_overview_deals.php:60
+msgid "Save 70%"
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/templates/display_overview_support.php:3
+#, php-format
+msgid ""
+"You may contact us by filling in this form or by email %s any time you need "
+"professional support or have any questions. You can also fill in the form to "
+"leave your comments or feedback."
+msgstr ""
+
+#: C:/wamp/www/wordpress/wp-content/plugins/form-maker/wd/templates/display_subscribe.php:11
+#, php-format
+msgid ""
+"Allow %s to collect some usage data. This will allow  you to get more out of "
+"your plugin experience - get awesome customer support, receive exclusive "
+"deals and discounts on premium products and more. You can choose to skip "
+"this step, %s will still work just fine."
+msgstr ""
+
+#~ msgid "Hey! How's It Going?"
+#~ msgstr "Hey! Come va?"
+
+#~ msgid ""
+#~ "Thank you for using WordPress %s! We hope that you've found everything "
+#~ "you need, but if you have any questions:"
+#~ msgstr ""
+#~ "Grazie per l'utilizzo di WordPress% s! Ci auguriamo che hai trovato tutto "
+#~ "il necessario, ma se avete domande:"
+
+#~ msgid "Get Some Help"
+#~ msgstr "Avere un aiuto"
+
+#~ msgid "This field "
+#~ msgstr "Questo campo"
+
+#~ msgid "Entries"
+#~ msgstr "Inserimenti"
+
+#~ msgid "Views"
+#~ msgstr "Visualizzazioni"
+
+#~ msgid "Conversion Rate"
+#~ msgstr "Tasso di conversione"
+
+#~ msgid "Export to"
+#~ msgstr "Esporta a"
+
+#~ msgid "GO"
+#~ msgstr "andare "
+
+#~ msgid "Reset"
+#~ msgstr "reset "
+
+#~ msgid "of"
+#~ msgstr "di"
+
+#~ msgid "Statistics"
+#~ msgstr "statistica"
+
+#~ msgid "Show"
+#~ msgstr "Mostrare"
+
+#~ msgid "Percentage"
+#~ msgstr "Percentuale"
+
+#~ msgid "Count"
+#~ msgstr "Contare"
+
+#~ msgid "Unanswered"
+#~ msgstr "Senza risposta"
+
+#~ msgid "Longitude"
+#~ msgstr "Longitudine"
+
+#~ msgid "Latitude"
+#~ msgstr "Latitudine"
+
+#, fuzzy
+#~ msgid "Error, file destination does not exist."
+#~ msgstr "Errore, e-mail non è stato inviato."
+
+#~ msgid "First"
+#~ msgstr ".first"
+
+#~ msgid "Last"
+#~ msgstr "L'anno"
+
+#~ msgid "Middle"
+#~ msgstr "Centrale"
+
+#~ msgid "Phone Number"
+#~ msgstr "Telefono"
+
+#~ msgid "Dollars"
+#~ msgstr "Dollari. "
+
+#~ msgid "Cents"
+#~ msgstr "Cents. "

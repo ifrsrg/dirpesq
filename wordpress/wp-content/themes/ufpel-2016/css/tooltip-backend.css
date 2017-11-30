@@ -1,0 +1,11 @@
+.ui-tooltip {
+	background: #fff;
+	border-width: 2px;
+	box-shadow: 0 0 5px #aaa;
+	font-size: 14px;
+	line-height: 22px;
+	max-width: 500px;
+	padding: 8px;
+	position: absolute;
+	z-index: 9999;
+}

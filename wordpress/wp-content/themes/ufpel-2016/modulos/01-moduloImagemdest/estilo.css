@@ -1,0 +1,80 @@
+.moduloimgdest{
+	padding-top: 18px;
+	padding-bottom: 0;
+	position: relative;
+}
+
+	#imgDest{
+		width: 984px;
+		height: 220px;
+	    position: relative;
+	    overflow: hidden;
+	}
+
+		#imgDest ul {
+		    width: 20000em;
+		    position: relative;
+		    list-style: none;
+		    margin: 0;
+		    padding: 0;
+		}
+
+		#imgDest li {
+			width: 984px;
+			height: 220px;
+		    float: left;
+		}
+
+		#imgDest li img{
+			width: 984px;
+			height: 220px;
+		}
+
+		#imgdest-seletor{
+			position: absolute;
+			top: 5px;
+			right: 17px;
+		}
+
+		#imgdest-seletor a{
+			padding: 0 2px;
+		}
+
+		.imgDestcontent {
+			background-color: rgba(255, 255, 255, 0.7);
+			bottom: 20px;
+			box-sizing: border-box;
+			color: #444;
+			font-size: 15px;
+			font-weight: bold;
+			height: 32px;
+			padding: 5px 65px;
+			position: absolute;
+			text-align: right;
+			top: 168px;
+			width: 984px;
+		}
+		#slides img {
+			height: 221px;
+			width: 984px;
+		}
+
+
+/* seletor */
+.imgdest-select{
+	display: block;
+	background: url("../../imagens/icones/bt_off.png") center center no-repeat;
+	float: left;
+	height: 16px;
+	width: 16px;
+}
+
+.imgdest-select-active{
+	background: url("../../imagens/icones/bt_on.png") center center no-repeat !important;
+}
+
+
+/* single */
+header .moduloimgdest {
+	padding-top: 0;
+}

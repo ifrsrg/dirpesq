@@ -1,0 +1,165 @@
+div .template-error {
+    text-align: center;
+	background-color: #D9A2A2;
+}
+
+div .template-message {
+	text-align: left;
+}
+
+div .template-submit {
+	text-align: center;
+}
+
+h2 .template-message {
+	text-align: center;
+}
+
+h2 .template-error {
+    text-align: center;
+	background-color: #D9A2A2;
+}
+
+#ura_page.container {
+	width: 90%;
+}
+
+#ura_page_evolve.container_evolve {
+	width: 90%;
+}
+
+#ura_evolve_primary.ura_page_evolve_primary {
+	width:50%;
+}
+
+#ura_evolve_sidebar.ura_page_evolve_sidebar {
+	width:50%;
+	float:left;
+}
+
+#2017_ura_template_table.ura_template_table {
+	text-indent:15%;
+	width:70%;
+}
+
+#ura_template_table.ura_template_table {
+	margin-left:10%;
+	width:90%;
+}
+
+table.virtue_template_table {
+	margin-left:20%;
+	width:70%;
+}
+
+td.virtue_primary_td {
+	vertical-align:top;
+}
+td.virtue_sidebar_td {
+	margin-left:15%;
+}
+
+#ura_template_primary.ura_main_tab {
+	width:60%;
+	vertical-align:top;
+}
+
+#2017_ura_template_primary.2017_ura_main_tab {
+	width:70%;
+	vertical-align:top;
+}
+
+#ura_template_sidebar.ura_sidebar_tab {
+	width:40%;
+}
+
+#2017_ura_template_sidebar.2017_ura_sidebar_tab {
+	padding-left:30px;
+	margin-left:30px;
+	width:30%;
+}
+
+/*
+#pass-strength-result.short{
+background-color: #ffa0a0;
+}
+
+#pass-strength-result.hidden{
+display:none;
+}
+
+#pass-strength-result.bad{
+background-color: #ffb78c;
+}
+
+#pass-strength-result.good{
+background-color: #ffec8b;
+}
+
+#pass-strength-result.strong{
+background-color: #c3ff88;
+}
+
+#pass-strength-result.mismatch{
+background-color: #cc3300;
+}
+*/
+/* for password strength meter in forms */
+#pass-strength-result.short {
+	background-color: #f1adad;
+	border-color: #e35b5b;
+	opacity: 1;
+}
+
+#pass-strength-result.bad {
+	background-color: #fbc5a9;
+	border-color: #f78b53;
+	opacity: 1;
+}
+
+#pass-strength-result.good {
+	background-color: #ffe399;
+	border-color: #ffc733;
+	opacity: 1;
+}
+
+#pass-strength-result.strong {
+	background-color: #c1e1b9;
+	border-color: #83c373;
+	opacity: 1;
+}
+
+#pass1.short, #pass1-text.short {
+	border-color: #e35b5b;
+}
+
+#pass1.bad, #pass1-text.bad {
+	border-color: #f78b53;
+}
+
+#pass1.good, #pass1-text.good {
+	border-color: #ffc733;
+}
+
+#pass1.strong, #pass1-text.strong {
+	border-color: #83c373;
+}
+
+.pw-weak {
+	display:none;
+}
+
+.indicator-hint {
+	padding-top: 8px;
+}
+
+#pass1-text,
+.show-password #pass1 {
+	display: none;
+}
+
+.show-password #pass1-text
+{
+	display: inline-block;
+}
+

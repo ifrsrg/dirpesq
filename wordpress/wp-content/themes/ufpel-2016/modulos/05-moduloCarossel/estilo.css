@@ -1,0 +1,53 @@
+.carousel_banners {
+	position: relative;
+	overflow: hidden;
+	height: 85px;
+}
+
+	.carousel_banners ul {
+		width: 20000em;
+		position: absolute;
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+
+	.carousel_banners ul li {
+		float: left;
+		width: 114px;
+		text-align: center;
+	}
+
+	#banners_content{
+		position: absolute;
+		height: 66px;
+		width: 910px;
+		top: 0px;
+		left: 37px;
+		overflow: hidden;
+	}
+
+	#banners_content img {
+		width: 96px;
+		height: 66px;
+	}
+
+	#carousel_banners_left{
+		width: 32px;
+		position: absolute;
+		left: 0;
+		top: 0px;
+	}
+
+	#carousel_banners_right{
+		width: 32px;
+		position: absolute;
+		right: 0;
+		top: 0px;
+	}
+
+	.prev-navigation.inactive,
+	.next-navigation.inactive {
+		opacity: .5;
+		cursor: default;
+	}

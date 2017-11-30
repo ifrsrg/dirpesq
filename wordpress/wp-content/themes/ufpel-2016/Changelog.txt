@@ -1,0 +1,18 @@
+﻿# Tema UFPel 2016 para WordPress
+# http://wp.ufpel.edu.br/sobre/tema-ufpel-2016
+
+# Changelog
+
+### 1.1 - 2017-04-19
+* Widgets da Previsão do Tempo e Rádio Federal FM removidos do tema. Agora estão
+  disponíveis em um plugin próprio: http://wp.ufpel.edu.br/sobre/plugin-widgets-ufpel;
+* Atualizado código da barra do Governo Federal;
+* Menu principal do site agora permanece visível no topo da tela ao rolar a página;
+* Corrigido o alinhamento das áreas de widgets do rodapé e um bug que impedia a
+  exibição dos widgets quando admin do site não estava logado;
+* Adicionado CSS para legendas de imagens;
+* Versão mínima requerida do WP (4.5.0) adicionada às informações do README.
+
+
+### 1.0 - 2016-09-27
+* Primeiro release público.

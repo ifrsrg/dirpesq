@@ -1,0 +1,125 @@
+#vitrine{
+	position: relative;
+}
+
+#vitrine .content_header {
+	margin-bottom: 20px;
+}
+
+.carousel_vitrine {
+	position: relative;
+	height: 340px;
+	left: 40px;
+	width: 910px;
+}
+
+	.lista_vitrine {
+		width: 20000em;
+		position: absolute;
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+
+	.item_vitrine {
+		float: left;
+		width: 470px;
+	}
+
+	#vitrine_anterior {
+		position: absolute;
+		left: -35px;
+		top: 150px;
+	}
+
+	#vitrine_proximo {
+		position: absolute;
+		right: -30px;
+		top: 150px;
+	}
+
+#vitrine_content{
+	position: absolute;
+	height: 340px;
+	width: 910px;
+	overflow: hidden;
+}
+
+	#vitrine_list{
+		height: 170px;
+		width: 984px;
+		padding: 0 6px;
+		webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+	}
+
+	#vitrine_list ul{
+		list-style: none;
+	}
+
+	#vitrine_list ul li:last-child{
+		float: right !important;
+	}
+
+		.vitrine_bloco {
+			position: relative;
+			width: 424px;
+			height: 318px;
+			overflow: hidden;
+		}
+
+		/* exibe titulo ao passar o cursor */
+		.vitrine_bloco:hover > .vitrine_bloco_titulo.vitrine_bloco_movel {
+			bottom: 0;
+		}
+
+		/* oculta titulo ao passar o cursor */
+		.vitrine_bloco:hover > .vitrine_bloco_titulo.vitrine_bloco_clean {
+			bottom: -180px;
+		}
+
+		/* exibe resumo ao passar o cursor */
+		.vitrine_bloco:hover > .vitrine_bloco_titulo:not(.vitrine_bloco_clean) > a .vitrine_bloco_resumo.vitrine_bloco_rmovel {
+			display: block;
+		}
+
+			.vitrine_bloco img {
+				height: 318px;
+				width: auto;
+			}
+
+			.vitrine_bloco_titulo {
+				background-color: rgba(0, 0, 0, 0.6);
+				left: 0;
+				bottom: 0;
+				font-size: 16px;
+				position: absolute;
+				padding: 10px;
+				width: 408px;
+				height: auto;
+				transition: bottom 0.3s, height 0.3s;
+			}
+
+				.vitrine_bloco_titulo a {
+					color: #fff;
+				}
+
+
+			.vitrine_bloco_resumo {
+				display: block;
+				font-size: 12px;
+				padding-top: 8px;
+			}
+
+			.vitrine_bloco_oculto,
+			.vitrine_bloco_rmovel {
+				display: none;
+			}
+
+			.vitrine_bloco_movel {
+				bottom: -180px;
+			}
+
+			.vitrine_bloco_clean {
+			}
